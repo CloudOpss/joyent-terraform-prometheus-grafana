@@ -1,6 +1,6 @@
 # Setup
 
-> :information_source: _Note: This will create resources in your Joyent account for which you will be charged for._
+> :moneybag: _Note: This will create resources in your Joyent account for which you will be charged for._
 
 1. Clone this repo, open a terminal, and change directory to the repo location.
 1. Download and install [Terraform](https://www.terraform.io/downloads.html).
