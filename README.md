@@ -18,6 +18,6 @@ username and `admin` as the password when prompted.
 
 # Teardown
 
-> :warning: Note: This will destroy previously created resources and you will lose any associated data._
+> :warning: _Note: This will destroy previously created resources and you will lose any associated data._
 
 1. Execute `terraform destroy` and enter `yes` when prompted to make the changes.
